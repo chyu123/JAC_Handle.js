@@ -1,4 +1,4 @@
-# Javascript Alert and Confrim repalcement for Chrome (JAS_JAC_Handle.js)
+# Javascript Alert and Confrim repalcement for Chrome (JAC_Handle.js)
 
 
 With new Google Chrome since Chrome 57, Chromium Team had decided to reduce of [important on Javascript confirm and alert popup](https://developers.google.com/web/updates/2017/03/dialogs-policy) that was made with javascript to prevent the [harmfulness](https://blog.malwarebytes.com/cybercrime/2013/12/android-pop-ups-warn-of-infection/) with malware or etc. 
